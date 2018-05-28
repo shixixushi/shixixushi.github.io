@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中文博客 on 石溪许氏</title>
+    <link>/cn/</link>
+    <description>Recent content in 中文博客 on 石溪许氏</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Sep 9999 18:28:16 +0000</lastBuildDate>
+    
+	<atom:link href="/cn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>修谱理事会成员名单</title>
+      <link>/cn/9999/09/lishihui/</link>
+      <pubDate>Wed, 08 Sep 9999 18:28:16 +0000</pubDate>
+      
+      <guid>/cn/9999/09/lishihui/</guid>
+      <description>理事会名单如下： 待定</description>
+    </item>
+    
+    <item>
+      <title>各修谱片区联络人及联系方式</title>
+      <link>/cn/9999/09/lianluoren/</link>
+      <pubDate>Tue, 07 Sep 9999 18:28:16 +0000</pubDate>
+      
+      <guid>/cn/9999/09/lianluoren/</guid>
+      <description>皖桐石溪许氏家谱九修各片区联络人姓名及联系方式 如有信息遗漏或者统计错误，请联系许宜和 （13865197129） 登记更正。 片区 联系人 其林 许国平</description>
+    </item>
+    
+  </channel>
+</rss>
